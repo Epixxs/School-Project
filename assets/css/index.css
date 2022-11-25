@@ -1,0 +1,32 @@
+* {
+    background-color: #1b1b1b;
+    font-family: monospace;
+    color: white;
+}
+
+.main-head {
+    text-align: center;
+    font-size: 32px;
+}
+
+.tag-line {
+    font-size: 28px;
+}
+
+.articles {
+    font-size: 25px;
+}
+
+a[href] {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a[href]:hover {
+    text-decoration: underline;
+}
+
+ul>li>p {
+    font-size: 18px;
+    width: 80%;
+}
