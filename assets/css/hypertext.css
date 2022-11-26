@@ -6,28 +6,19 @@
 }
 
 .main-head {
-    text-align: center;
-    font-size: 32px;
+    font-size: 30px;
 }
 
-.tag-line {
-    font-size: 28px;
-}
-
-.articles {
+.sub-head {
     font-size: 25px;
 }
 
-a[href] {
+p {
     font-size: 20px;
-    text-decoration: none;
+    width: 80%;
 }
 
-a[href]:hover {
-    text-decoration: underline;
-}
-
-ul>li>p {
+ul>li {
     font-size: 18px;
     width: 80%;
 }
