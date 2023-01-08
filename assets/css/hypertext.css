@@ -5,6 +5,14 @@
     margin: 1%;
 }
 
+p {
+    text-align: justify;
+}
+
+ul>li {
+    text-align: justify;
+}
+
 .main-head {
     font-size: 30px;
 }

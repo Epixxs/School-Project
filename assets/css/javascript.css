@@ -5,8 +5,18 @@
     margin: 1%;
 }
 
+p {
+    text-align: justify;
+}
+
+li {
+    text-align: justify;
+}
+
 .main-head {
     font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px;
 }
 
 .sub-head {

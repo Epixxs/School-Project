@@ -5,6 +5,10 @@
     margin: 1%;
 }
 
+p {
+    text-align: justify;
+}
+
 .main-head {
     text-align: center;
     font-size: 32px;
@@ -12,6 +16,10 @@
 
 .tag-line {
     font-size: 28px;
+}
+
+.tag-line>u:hover {
+    text-decoration: none;
 }
 
 .articles {
